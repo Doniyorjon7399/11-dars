@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Doniyorjon7399/javasicripy.git"
+    "url": "git+https://github.com/Doniyorjon7399/9-dars.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Doniyorjon7399/javasicripy/issues"
+    "url": "https://github.com/Doniyorjon7399/9-dars/issues"
   },
-  "homepage": "https://github.com/Doniyorjon7399/javasicripy#readme",
+  "homepage": "https://github.com/Doniyorjon7399/9-dars#readme",
   "dependencies": {
     "express": "^4.21.2"
   },
